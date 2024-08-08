@@ -40,7 +40,7 @@ Our DApp leverages blockchain to store and verify jewelry information. Each piec
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/jewelry-authentication-dapp.git
+   git clone https://github.com/amanraj069/JewelAssure
    cd jewelry-authentication-dapp
    ```
 
@@ -85,5 +85,3 @@ Our DApp leverages blockchain to store and verify jewelry information. Each piec
    - Navigate to the verification page.
    - Scan the QR code or enter the unique identifier of the jewelry.
    - View the recorded details to verify authenticity.
-
-## Directory Structure
